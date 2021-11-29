@@ -57,3 +57,5 @@ export default GlobalStyle;
 
     - gradient 생성기: [https://angrytools.com/gradient/](https://angrytools.com/gradient/)
     - animation 생성기: [https://animista.net/](https://animista.net/)
+
+3. css className convention: BEM(Block Element Modifier)
